@@ -1,8 +1,10 @@
 # DigitalImageProcess
 ##이미지를 입력받아 이미지 처리를 하는 프로그램 (JAVA)
 ###[파일 링크](https://github.com/knh21c/DigitalImageProcess/archive/master.zip)
+###실행파일은 ExecutableFiles폴더 안에 있습니다.
 
-실행 화면
+
+*실행 화면
 
 1 첫 화면
 
